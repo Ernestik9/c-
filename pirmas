@@ -1,0 +1,8 @@
+#include<iostream>
+using nampespace std;
+
+int main()
+{
+cout<<"Hello world";
+return 0;
+}
